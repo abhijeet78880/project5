@@ -41,7 +41,6 @@ body{
   }
   .navbar a:hover {
     background: radial-gradient(circle at center, rgba(94, 231, 255, 0.315) , rgba(255, 255, 255, 0));
-    font-size: 22px;
   }
 header {
     text-align:center;
